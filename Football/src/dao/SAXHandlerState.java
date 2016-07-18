@@ -1,0 +1,6 @@
+package dao;
+
+public enum  SAXHandlerState {
+
+    FIRST_NAME, SECOND_NAME, THIRD_NAME, BIRTHDAY, TEAM, FACULTY, COMPOSITION, ROLE, NONE
+}
